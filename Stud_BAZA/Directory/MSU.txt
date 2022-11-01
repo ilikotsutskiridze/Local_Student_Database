@@ -1,0 +1,23 @@
+Однотипная база <MSU> в ней содержится информация студентов общего плана 
+IVANOV_IVAN_IVANOVICH@ 
+VMK@ 
+Семестр:3@ 
+MATH@ 
+3@ 
+2@ 
+GOSHA_IVANOV@ 
+PHIFAK@ 
+Семестр:4@ 
+LINAL@ 
+2@ 
+1@  
+
+KOKO_DENIS@
+RK3@
+Семестр:6@
+LIKON@
+1@
+5@
+MATAN@
+4@
+5@

@@ -1,0 +1,25 @@
+Однотипная база <MSTU> в ней содержится информация студентов индивидуального плана 
+DENIS_DANILOVICH@ 
+IU2@ 
+Семестр:1@ 
+LINAL@ 
+4@ 
+MATAN@ 
+3@ 
+Igor_Marochkin_Denisovich@ 
+IU8@ 
+Семестр:8@ 
+LINAL@ 
+2@ 
+Ilia_Tsutskiridze_Iraklievich@ 
+IU8@ 
+Семестр:2@ 
+MATAN@ 
+1@ 
+VANA_GESHIN@ 
+RK2@ 
+Семестр:4@ 
+ENLSH@ 
+4@ 
+INJA@ 
+2@  
